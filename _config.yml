@@ -1,0 +1,14 @@
+layout_spectrum: 0.9177277004346251
+typography_spectrum: 0.788657353259623
+color:
+  brandStrength: 0.6212224748451263
+  lightness: 0.7382180341519415
+  saturation: 0.006269303150475025
+  rhythmicContrast: 0.0006494729313999414
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: rakonto
